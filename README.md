@@ -1,3 +1,3 @@
 ## Artsy Open Raycast Extension
 
-Open artsy.net URLs in the simulator or browser
+Open artsy.net URLs in the simulator or browser with Raycast.
